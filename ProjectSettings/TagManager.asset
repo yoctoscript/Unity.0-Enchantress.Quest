@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemies
+  - Map
+  - EnemiesHead
+  - Coin
+  - GOAL
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Map
+  - Background
+  - Enemies
+  - Props
+  - Cinemachine
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 526874371
+    locked: 0
+  - name: Props
+    uniqueID: 3472045831
+    locked: 0
+  - name: Map
+    uniqueID: 1825060641
+    locked: 0
+  - name: Enemies
+    uniqueID: 1336732003
+    locked: 0
+  - name: Player
+    uniqueID: 3523125875
+    locked: 0
